@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617987029805",
+    "firebase_url": "https://chatonline-45ad1.firebaseio.com",
+    "project_id": "chatonline-45ad1",
+    "storage_bucket": "chatonline-45ad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617987029805:android:d785d4899ad5631ea471a4",
+        "android_client_info": {
+          "package_name": "com.trintin.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617987029805-rspq3ov3d632mcb9d20rqqr15ttl1gtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trintin.chat_online",
+            "certificate_hash": "33a1002e33e1afec54cb7f1d5aaec890eceb6eb1"
+          }
+        },
+        {
+          "client_id": "617987029805-luvehjre2r47hp9qstaaon15gv9bh1pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJCt-yXbmrW8xJ-hZCV5ZBvLrcDlLDhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617987029805-luvehjre2r47hp9qstaaon15gv9bh1pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
